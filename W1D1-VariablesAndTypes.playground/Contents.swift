@@ -73,7 +73,7 @@ var tipAmount = 6.01
 
 
 var isOpen = true
-// isOpen's type is: String
+// isOpen's type is: Bool
 
 
 //: ## Type Inference
